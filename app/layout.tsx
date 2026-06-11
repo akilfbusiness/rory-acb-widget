@@ -10,8 +10,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'All Clutch & Brake — AI Assistant',
+  description: 'Chat with Rory, the AI assistant for All Clutch & Brake in Adelaide, Australia.',
   generator: 'v0.app',
   icons: {
     icon: [
