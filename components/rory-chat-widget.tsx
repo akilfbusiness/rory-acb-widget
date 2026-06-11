@@ -3,7 +3,7 @@
 import { useEffect, useRef, useState } from "react"
 
 const WEBHOOK_URL =
-  "https://n8n-customer-automations.onrender.com/webhook-test/63d10583-2eb6-4d46-a338-265ffa890160"
+  "https://n8n-customer-automations.onrender.com/webhook/63d10583-2eb6-4d46-a338-265ffa890160"
 
 function getSessionId(): string {
   if (typeof window === "undefined") return crypto.randomUUID()
